@@ -1,0 +1,264 @@
+{
+  "products": [
+    {
+      "title": "Nike Air Zoom G.T. Jump",
+      "description": "Feel like defying gravity? Meet one of Nike Basketball’s most responsive cushioning systems ever devised for game shoes. The double-stacked Zoom Air works in unison with an external jump frame made from PEBAX® that's lightweight, springy and strong. The woven exoskeleton-like upper helps you feel fully connected, so you can move with confidence and power and defeat the force that holds you down.",
+      "price": "140",
+      "category": "man's shoes",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/9355f630-53c7-4567-89b4-a788c93171ea/air-zoom-gt-jump-basketball-shoes-Mj4kHp.png",
+      "id": 23
+    },
+    {
+      "title": "Nike Dunk Mid",
+      "description": "Created for the hardwood but taken to the streets, the '80s b-ball icon returns with classic, stone-washed canvas in a durable design. Channeling vintage style back onto the streets, its padded, mid-cut collar lets you take your game anywhere—in comfort.",
+      "price": "115",
+      "category": "man's shoes",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/41004ccc-2bb9-4059-9a78-c6a15f21f144/dunk-mid-mens-shoes-RHtFM2.png",
+      "id": 24
+    },
+    {
+      "title": "Nike Cortez",
+      "description": "One word: tradition. From heritage running to fashion phenom to movie star, the Cortez's retro appeal, sponge-soft midsole and seesaw detailing deliver decade after decade. This fresh take on the ubiquitous look goes big on vintage vibes with suede accents and throwback branding. The classic varsity color combo keeps your style sporty, while the gum rubber outsole puts the cherry on the bottom.",
+      "price": "100",
+      "category": "man's shoes",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/39399680-f44e-4813-aa21-077c052d966e/cortez-mens-shoes-DHDh56.png",
+      "id": 25
+    },
+    {
+      "id": 1,
+      "title": "Nike Primary",
+      "price": "70",
+      "description": "Run, spin, lift, stretch—no matter where your workout takes you, we have you covered in the sweat-wicking Primary Top. We designed it to be soft and comfortable, with underarm ventilation to help keep you cool during your reps.",
+      "category": "men's clothing",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/3832a402-4c28-4a69-92c5-db6510eada5f/primary-mens-dri-fit-short-sleeve-versatile-top-XK77j1.png",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 2,
+      "title": "Nike Solo Swoosh",
+      "price": "100",
+      "description": "Celebrate the power and simplicity of the Swoosh. This warm, brushed fleece hoodie is made with some extra room through the shoulders, chest and body for easy comfort and laid-back, nostalgic style. Thick, stretchy ribbing at the cuffs and hem help hold the hoodie in place when you move and seal in your warmth when conditions cool. Our Solo Swoosh is embroidered on the left chest to keep your look clean and effortless.",
+      "category": "men's clothing",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/38be7458-9d5a-4ce8-bec4-f72297f8076a/solo-swoosh-mens-fleece-pullover-hoodie-qnqWb8.png",
+      "rating": {
+        "rate": 4.1,
+        "count": 259
+      }
+    },
+    {
+      "title": "Nike Air Zoom Infinity Tour",
+      "description": "You ever daydream about Georgia in the spring? We do. With its peach-fuzz tones complementing a clean base, this version is perfect for a long stroll through a warm, inviting Southern breeze. Two large Zoom Air units, more room for your feet and enhanced traction help you through your round, while radiant brights and extra-juicy goodness throughout remind you to keep it fresh, always.",
+      "price": 180,
+      "category": "man's shoes",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/be2a9357-465f-471f-8f41-2e42e88c61e6/air-zoom-infinity-tour-next-nrg-golf-shoes-Qz3VFg.png",
+      "id": 24456789
+    },
+    {
+      "id": 3,
+      "title": "Jordan Flight Fleece",
+      "price": 110,
+      "description": "Meet your new go-to hoodie. Heavyweight fleece feels super soft, and the comfy, relaxed fit will have you reaching for it again and again. An oversized Jumpman label is sewn on front-and-center, making this wardrobe staple anything but basic.",
+      "category": "men's clothing",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/ea4323d0-afc7-4b83-9ee6-f603f3994478/jordan-flight-fleece-mens-pullover-hoodie-sNHVMK.png",
+      "rating": {
+        "rate": 4.7,
+        "count": 500
+      }
+    },
+    {
+      "id": 4,
+      "title": "Jordan Essentials",
+      "price": 140,
+      "description": "Train strong and stay cool in this warm-up jacket. Its breathable woven material is complimented by underarm eyelets that let in more air. Still not enough? Unzip and hang loose. A Jordan woven patch and luxe metal zipper keep your look perfectly fly.",
+      "category": "men's clothing",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/56e708d7-3082-45ff-ad6b-3b2249590130/jordan-essentials-mens-warm-up-jacket-RGs9mj.png",
+      "rating": {
+        "rate": 2.1,
+        "count": 430
+      }
+    },
+    {
+      "id": 6,
+      "title": "Nike Sportswear Club Fleece",
+      "price": 55,
+      "description": "A closet staple, the Nike Sportswear Club Fleece Joggers combine a classic look with the soft comfort of fleece for an elevated, everyday look that you can wear every day.",
+      "category": "pants",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/9bb335db-535b-45d1-a272-26efbcd8f57d/sportswear-club-fleece-joggers-KflRdQ.png",
+      "rating": {
+        "rate": 3.9,
+        "count": 70
+      }
+    },
+    {
+      "id": 7,
+      "title": "Nike Windrunner",
+      "price": 95,
+      "description": "Since 1978, the Windrunner jacket has been celebrated for its bold simplicity. Now, you can pair this iconic jacket with matching pants for a complete, uniform look. They're made with crisp woven fabric for a smooth feel, and lined with mesh for air-cooled comfort.",
+      "category": "pants",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/2a37e7e6-68ba-44fc-bb8a-a8d350feca70/windrunner-mens-woven-lined-pants-bgz7fD.png",
+      "rating": {
+        "rate": 3,
+        "count": 400
+      }
+    },
+    {
+      "id": 8,
+      "title": "Jordan Flight Fleece",
+      "price": 50,
+      "description": "Sit back and relax—or not. These comfy, versatile pants have a plush, heavyweight feel and an intentionally washed-out look. A zippered pocket lets you securely stash essentials if you decide to head out.",
+      "category": "pants",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/e309fe76-30eb-43de-af60-6b5af167c950/jordan-flight-fleece-mens-washed-pants-5Dc1F7.png",
+      "rating": {
+        "rate": 1.9,
+        "count": 100
+      }
+    },
+    {
+      "id": 9,
+      "title": "Nike Amplify Jacket",
+      "price": 70,
+      "description": "This jacket is a lightweight grab-and-go layer made of woven nylon fabric designed in an easy pullover style making it great for spring or summer weather. The quarter-zip closure makes dressing and temperature regulation easy, encased elastic at the cuffs and hem help retain warmth and side seam pockets help secure small items. Additionally, the jacket is fully lined with knit mesh fabric enhanced with quick-drying, moisture-wicking Dri-FIT technology to help kids stay cool and dry while they play.",
+      "category": "little Kids",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/42ffbae8-b6b4-425d-84bf-df1b593b0af5/amplify-jacket-little-kids-jacket-P9qKFC.png",
+      "rating": {
+        "rate": 3.3,
+        "count": 203
+      }
+    },
+    {
+      "id": 10,
+      "title": "Nike Sportswear Club Winterized Full-Zip Hoodie",
+      "price": 40,
+      "description": "This hoodie is made of snuggly plush sherpa fabric for the ultimate in lightweight warmth. The roomy cut is full of cozy feels, and the full-zip closure makes layering and temperature regulation easy.",
+      "category": "little Kids",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/54d694e5-3adc-439e-b955-b98b6de796d9/sportswear-club-winterized-full-zip-hoodie-little-kids-hoodie-ksqpwx.png",
+      "rating": {
+        "rate": 2.9,
+        "count": 470
+      }
+    },
+    {
+      "id": 12,
+      "title": "Nike Sportswear Club Marble Fleece Pullover Hoodie",
+      "price": 60,
+      "description": "This lightweight hoodie is made of soft fleece fabric for all the cozy feels, and the roomy cut makes layering easy. Pair with the Nike Sportswear Club Marble Fleece Pants for a coordinated look.",
+      "category": "little Kids",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/815460d6-8b32-4079-84fb-3d91f6c767cc/sportswear-club-marble-fleece-pullover-hoodie-little-kids-hoodie-VrmlpK.png",
+      "rating": {
+        "rate": 4.8,
+        "count": 400
+      }
+    },
+    {
+      "id": 13,
+      "title": "Nike Icon Clash Pullover Hoodie",
+      "price": 30,
+      "description": "This traditional hoodie has been given a modern twist. It is made of soft sueded fleece in an oversized, cozy cut that makes layering easy. The cropped cut still provides full coverage for a flattering look.",
+      "category": "little Kids",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/3ad723f0-099f-43f1-9502-08b3a80181da/icon-clash-pullover-hoodie-little-kids-hoodie-F4c995.png",
+      "rating": {
+        "rate": 2.9,
+        "count": 250
+      }
+    },
+    {
+      "id": 15,
+      "title": "Nike Sportswear Phoenix Fleece",
+      "price": 70,
+      "description": "Rise up and transform your fleece wardrobe with the strong cozy vibes of Phoenix Fleece. With an extreme drop in the shoulders and extra room in the body, this voluminous hoodie will never hold you back or hem you in. Exaggerated details like an oversized front pocket and extra-tall ribbing on the cuffs and hem ensure your look is anything but basic.",
+      "category": "women's clothing",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/c5045521-8929-41cd-a801-bf2b2c09c2f8/sportswear-phoenix-fleece-womens-over-oversized-pullover-hoodie-Kqx9H3.png",
+      "rating": {
+        "rate": 2.6,
+        "count": 235
+      }
+    },
+    {
+      "id": 16,
+      "title": "Nike Sportswear Phoenix Fleece",
+      "price": 70,
+      "description": "Rise up and transform your fleece wardrobe with strong cozy vibes. With a voluminous fit and exaggerated ribbing, this Phoenix Fleece sweatshirt gives you a look that's anything but basic.",
+      "category": "women's clothing",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/0af4ccf3-761d-4250-89d7-fbfec7d51d9a/sportswear-phoenix-fleece-womens-over-oversized-crewneck-sweatshirt-Wj2Rd6.png",
+      "rating": {
+        "rate": 2.9,
+        "count": 340
+      }
+    },
+    {
+      "id": 17,
+      "title": "Nike Sportswear Phoenix Fleece City Edition",
+      "price": 50,
+      "description": "Phoenix Fleece breathes new life into your favorites, ensuring your look is anything but basic. The voluminous fit and exaggerated ribbing of this oversized layer bring strong cozy vibes to help you stay toasty all day long.",
+      "category": "women's clothing",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/2a001310-6436-470b-96f8-644681c6b92d/sportswear-phoenix-fleece-city-edition-womens-over-oversized-crewneck-sweatshirt-rgt1dS.png",
+      "rating": {
+        "rate": 3.8,
+        "count": 679
+      }
+    },
+    {
+      "id": 18,
+      "title": "Nike Yoga Therma-FIT ADV",
+      "price": 90,
+      "description": "Wrap yourself in relaxation as you rest in this roomy, heat-regulating top. With soft wool fabric that sits gently against your skin and a wide, ribbed neckline, you'll feel cozy as you focus on your recovery between practices.",
+      "category": "women's clothing",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/1f90e956-e3e4-4d67-bb1d-abb3e3b43d12/yoga-therma-fit-adv-womens-top-H4Zx2M.png",
+      "rating": {
+        "rate": 4.7,
+        "count": 130
+      }
+    },
+    {
+      "id": 19,
+      "title": "Nike Air",
+      "price": 90,
+      "description": "With an extra roomy, cropped fit, this full-zip hoodie is made to pair with your favorite leggings. Its semi-brushed fleece fabric features inset mesh panels at the shoulders for an athletic look.",
+      "category": "women's clothing",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/656cb0cc-722c-453c-8468-8338c45d7ca4/air-womens-oversized-full-zip-fleece-hoodie-Psl0xP.png",
+      "rating": {
+        "rate": 4.5,
+        "count": 146
+      }
+    },
+    {
+      "id": 20,
+      "title": "Nike Sportswear Phoenix Fleece",
+      "price": 70,
+      "description": "Rise up and transform your fleece wardrobe with strong cozy vibes. All about warmth and comfort, the longer cut of this full-zip hoodie lets you bring the snuggly feeling of your favorite throw blanket with you everywhere you go.",
+      "category": "women's clothing",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/6a01f75e-3f7e-44a6-a134-70fa054125e9/sportswear-phoenix-fleece-womens-oversized-long-full-zip-hoodie-6zPtFb.png",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      }
+    },
+    {
+      "title": "Paris Saint-Germain",
+      "description": "Cover up in cozy with this Paris Saint-Germain hoodie. It's made with brushed-back fleece in an exaggerated fit for an ultrasoft feel. Team graphics front and back show your PSG pride whether you're coming or going.",
+      "price": 80,
+      "category": "women's clothing",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/3e60ebce-f95c-4570-86f1-b7acd8705408/paris-saint-germain-womens-fleece-hoodie-J3wN6V.png",
+      "id": 22
+    },
+    {
+      "title": "фыФЫВФЫВФЫ",
+      "description": "jkh",
+      "price": "j",
+      "category": "women's clothing",
+      "image": "kjh",
+      "id": 24456790
+    },
+    {
+      "title": "йцукенгшщ",
+      "description": "hkuh",
+      "price": "kiubkblk",
+      "category": "women's clothing",
+      "image": ";lih",
+      "id": 24456791
+    }
+  ]
+}
